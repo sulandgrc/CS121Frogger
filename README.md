@@ -1,4 +1,4 @@
-# CS121GraphicalLandscape
+# CS121Frogger
 
 ## Directions
 
